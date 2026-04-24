@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="CsPlayersGuide/CsPlayersGuide.csproj" />
+  <Project Path="enums/enums.csproj" />
 </Solution>
